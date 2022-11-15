@@ -11,8 +11,7 @@
  📫 How to reach me bhumikaarora2024@gmail.com
  
  
- <div> Languages and tools used 
- < a src="https://google.com"> 
+  
 
 
 <!--
