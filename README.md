@@ -9,6 +9,10 @@
  👨‍💻 You can also check out my portfolio at https://bhumika-arora-09.github.io/portfolio/
  
  📫 How to reach me bhumikaarora2024@gmail.com
+ 
+ 
+ <div> Languages and tools used 
+ < a src="https://google.com"> 
 
 
 <!--
